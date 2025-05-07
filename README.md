@@ -1,4 +1,4 @@
 ## Preview
 
-![Gameplay Preview 1](media/gif1.gif)
-![Gameplay Preview 2](media/gif2.gif)
+![Gameplay Preview 1](Assets/gif1.gif)
+![Gameplay Preview 2](Assets/gif2.gif)
